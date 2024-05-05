@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "Nodejs desde cero"
+        },
+        {
+          "nombre": "React desde cero"
+        },
+        {
+          "nombre": "javascript desde cero"
+        }
+      ],
+      "id": "5b3f"
+    },
+    {
+      "id": "d32b",
+      "nombre": "jmv",
+      "apellido": "diletante",
+      "materias": [
+        {
+          "nombre": "Excel desde cero"
+        },
+        {
+          "nombre": "Access desde cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "María",
+      "apellido": "López",
+      "promedio": 8.2,
+      "id": "f94d"
+    },
+    {
+      "nombre": "jmv",
+      "apellido": "diletante",
+      "promedio": 6.2,
+      "id": "8e89"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node js desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "084e"
+    },
+    {
+      "nombre": "Angular 17 desde cero",
+      "duracion": 10,
+      "dificultad": "media-alta",
+      "id": "86d4"
+    },
+    {
+      "nombre": "React desde cero",
+      "duracion": 7,
+      "dificultad": "fácil",
+      "id": "fa14"
+    }
+  ]
+}
